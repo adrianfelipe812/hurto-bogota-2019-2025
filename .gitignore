@@ -1,0 +1,13 @@
+# Excel descargados para refrescar el dataset
+data/raw/*.xlsx
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
